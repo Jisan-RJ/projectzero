@@ -1,0 +1,28 @@
+.benifit{
+    background: #F4F6FC !important;
+    padding: 120px 0px;
+}
+.mission-head{
+    margin: 0 auto;
+    text-align: center;
+}
+.mission-head h3{
+color: #282938;
+padding-bottom: 48px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+
+
+}
+@media (min-width: 768px) and (max-width: 992px){
+    .mission-head h3 {
+        color: #282938;
+        padding-bottom: 48px;
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 64px;
+    }
+}

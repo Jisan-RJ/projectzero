@@ -1,0 +1,16 @@
+.my-head{
+    text-align: center;
+}
+.my-head h3{
+    color: #282938;
+    padding-bottom: 48px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+
+
+}
+.my-blog{
+    padding: 120px 0px;
+}

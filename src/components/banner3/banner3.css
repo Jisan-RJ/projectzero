@@ -1,0 +1,51 @@
+.banner3{
+    padding: 125px 0px !important;
+    background: #1C1E53;
+}
+.ban3-img img{
+    width: 100%;
+}
+.ban3-text h1{
+    color: white !important;
+    font-family: Poppins;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+   padding-bottom: 32px ;
+    
+}
+.ban3-text p{
+color: white !important;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+padding-bottom: 32px;
+
+}
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .ban3-text{
+        text-align: center !important;
+    }
+    .ban3-img{
+        margin-top: 116px !important;
+    }
+    .ban3-text h1 {
+        color: white !important;
+        font-family: Poppins;
+        font-size: 44px;
+        font-weight: 600;
+        line-height: 26px;
+        padding-bottom: 32px;
+    }
+    .ban3-text p {
+        color: white !important;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 28px;
+        padding-bottom: 32px;
+    }
+}

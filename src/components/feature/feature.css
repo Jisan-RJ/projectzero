@@ -1,0 +1,77 @@
+.f-head{
+    margin: 0 auto;
+    text-align: center !important;
+}
+.f-head h3{
+    color: #282938;
+
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+padding-bottom: 47px !important;
+
+
+}
+.feature{
+    padding: 120px 0px !important;
+    background: #F4F6FC !important;
+}
+.f-head h5{
+  
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+
+
+}
+.client h3{
+    color: #282938;
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    
+    
+}
+.client p{
+    
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+  
+    
+}
+.client h4{
+
+font-family: Poppins;
+font-size: 32px;
+font-weight: 500;
+line-height: 48px;
+
+
+}
+.client{
+    padding: 250px 0px;
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .f-head h3{
+        font-size: 37px !important;
+        line-height: 49px !important;
+    }
+    .client{
+        text-align: center !important;
+    }
+    .client h3{
+        font-size: 34px !important;
+    }
+    .client h4{
+        font-size: 17px !important;
+    }
+}

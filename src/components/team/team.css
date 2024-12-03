@@ -1,0 +1,19 @@
+.team{
+    background: #F4F6FC !important;
+    padding: 120px 0px;
+}
+.team-head{
+    margin: 0 auto;
+    
+}
+.team-head h3{
+    text-align: center;
+    padding-bottom: 48px;
+   color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+
+
+}

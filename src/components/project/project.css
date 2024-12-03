@@ -1,0 +1,57 @@
+.project{
+    padding: 120px 0px !important;
+}
+.pro-left img{
+    width: 100% !important;
+}
+.pro-right-up img{
+    width: 100% !important;
+}
+.pro-right-down img {
+    width: 100% !important;
+}
+.pro-right {
+    display: flex;
+    flex-direction: column;
+    gap: 32px !important;
+}
+.pro-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 64px !important;
+}
+.pro-head h3{
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+color: #282938;
+
+}
+.pro-head a{
+
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .pro-right-f{
+        display: flex !important;
+        margin-top: 35px !important;
+        /* gap: 10px !important; */
+        justify-content: space-between !important;
+    }
+    .pro-head h3{
+        font-size: 30px !important;
+    }
+    .pro-head a{
+       font-size: 14px !important;
+    }
+}

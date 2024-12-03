@@ -1,0 +1,146 @@
+.contact-head{
+    margin: 0 auto;
+    text-align: center;
+}
+.contact-head h3{
+color: #282938;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+
+
+    
+}
+.contact{
+    padding: 120px 0px;
+}
+.contact-head p{
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    padding-bottom: 64px;
+    
+}
+.contact-from{
+    margin: 0 auto;
+    background: #F4F6FC !important;
+    padding: 55px 77px !important;
+}
+.contact-from input{
+    border: 2px solid #0000001F;
+    border-radius: 8px;
+    outline: none;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.from-left input{
+    width: 438px;
+    height: 64px;
+    background: transparent;
+    padding-left: 32px;
+    margin-bottom: 16px;
+}
+.from-right input{
+    width: 438px;
+    height: 64px;
+    background: transparent;
+    padding-left: 32px;
+    margin-bottom: 16px;
+}
+.from-left h5{
+    padding-bottom: 10px;
+
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+
+
+}
+.from-right h5{
+    padding-bottom: 10px;
+
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+
+
+}
+
+.from-down input{
+    width: 908px;
+    height: 138px;
+    background: transparent;
+    padding-left: 32px;
+}
+.from-down h5{
+padding-bottom: 10px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+
+
+}
+.contact-from a{
+    padding: 16px 64px;
+    background: #282938;
+    border: none;
+    border-radius: 41px;
+    color: white !important;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+
+
+}
+.from-down input{
+    margin-bottom: 64px;
+}
+
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .from-left input{
+        width: 206px !important; 
+    }
+    .from-right input{
+        width: 206px !important;
+    }
+    .from-down input{
+        width: 431px !important;
+    }
+    .from-left h5 {
+        padding-bottom: 10px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 32px;
+    }
+    .from-right h5 {
+        padding-bottom: 10px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 32px;
+    }
+    .from-down h5 {
+        padding-bottom: 10px;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 32px;
+    }
+}

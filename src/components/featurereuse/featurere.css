@@ -1,0 +1,38 @@
+.cards h4{
+  
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #282938;
+    padding-top: 22px !important;
+    padding-bottom: 12px !important;
+}
+.cards p{
+    
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    
+    
+}
+.cards{
+    background: white !important;
+    padding-left: 48px !important;
+    padding-top: 55px !important;
+    padding-bottom: 48px !important;
+    margin-bottom: 24px !important;
+    border-right: 20px solid #F4F6FC !important;
+}
+
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .cards h4{
+        font-size: 20px !important;
+    }
+    .cards p{
+        font-size: 13.5px !important;
+    }
+}

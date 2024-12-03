@@ -1,0 +1,58 @@
+.banner{
+    padding: 125px 0px !important;
+    background: #1C1E53 !important;
+}
+.ban-text h1{
+    font-family: Poppins;
+font-size: 54px;
+font-weight: 600;
+color: white !important;
+line-height: 74px !important;
+padding-bottom: 24px !important;
+}
+.ban-text p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+color: white !important;
+line-height: 28px !important;
+padding-bottom: 48px !important;
+}
+.ban-img img{
+    width: 100%;
+}
+.yellow-btn{
+    padding: 16px 56px !important;
+    background: #FCD980;
+    border-radius: 41px;
+    border: none;
+    color: #1B1C2B;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+text-decoration: none;
+
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .ban-text{
+        text-align: center !important;
+        margin-bottom: 145px !important;
+    }
+    .ban-text h1{
+        font-size: 43px !important;
+        line-height: 58px !important;
+    }
+    .yellow-btn{
+        font-size: 14px !important;
+    }
+}

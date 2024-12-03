@@ -1,0 +1,128 @@
+.price-plan{
+    padding: 120px 0px;
+}
+.price-head{
+    margin: 0 auto;
+    
+}
+.price-head h3{
+    text-align: center;
+    color: #282938;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+
+
+}
+.price-head p{
+    text-align: center;
+    
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+padding-bottom: 64px;
+
+}
+.price-card{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-left: 49px;
+    background: #F4F6FC !important;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.price-card li{
+    padding-bottom: 20px !important;
+}
+
+.middle{
+    background: #1C1E53 !important;
+    color: white !important;
+    border-left: 15px solid white;
+    border-right: 15px solid white;
+}
+.price-card a{
+    padding: 16px 77.5px;
+    background: #282938;
+    color: white !important;
+    border-radius: 41px;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+    text-align: center !important;
+}
+.middle-but{
+    background: #FCD980 !important;
+    text-decoration: none;
+    color: #282938 !important;
+}
+.price-card h3{
+ 
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    
+    
+}
+.price-card h4{
+    
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    padding-top: 20px;
+    padding-bottom: 8px;
+   
+    
+}
+.price-card p{
+  
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+   padding-bottom: 78px;
+    
+}
+.price-card ul{
+    padding-bottom: 79px;
+}
+.butt{
+    margin: 0 53px !important;
+}
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .price-card{
+        text-align: center !important;
+        margin: 0 auto !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        margin-bottom: 50px !important;
+
+    }
+    .price-head h3 {
+        text-align: center;
+        color: #282938;
+        font-family: Poppins;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 64px;
+    }
+    .price-head p {
+        text-align: center;
+        font-family: Poppins;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 28px;
+        padding-bottom: 64px;
+    }
+
+}

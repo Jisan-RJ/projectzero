@@ -1,0 +1,50 @@
+.free{
+    padding: 120px 0px;
+    background: #F4F6FC !important;
+}
+.free-pic{
+    background: url("../../assets/free.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 398px;
+}
+.free-text{
+    padding: 50px 0px;
+}
+.free-text h5{
+   
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+   
+    
+}
+.free-text h4{
+color: #232536;
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+   
+    
+}
+.free-text p{
+   
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+   
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 992px){
+    .free-text{
+        text-align: center !important;
+    }
+}

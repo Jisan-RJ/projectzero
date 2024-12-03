@@ -1,0 +1,45 @@
+.work {
+    padding: 125px 0px;
+    background: #F4F6FC !important;
+}
+.work-right{
+    background: red !important;
+}
+.work-left h3{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    color: #282938;
+    
+}
+.work-left p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+   color: #282938;
+    
+}
+.work-left a{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #2405F2 !important;
+    
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+    .work-left{
+        text-align: center !important;
+        margin-bottom: 90px !important;
+    }
+    .work-left h3{
+        font-size: 40px !important;
+    }
+    .work-left p{
+        font-size: 14px !important;
+        line-height: 19px !important;
+    }
+}

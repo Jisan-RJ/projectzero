@@ -1,0 +1,17 @@
+.process{
+    padding: 120px 0px;
+}
+.process-stick h2{
+    text-align: center;
+color: #282938;
+padding-bottom: 48px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+
+
+}
+@media (min-width: 768px) and (max-width: 992px){
+    
+}

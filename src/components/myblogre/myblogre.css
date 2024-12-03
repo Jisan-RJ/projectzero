@@ -1,0 +1,62 @@
+.myblog-card h6{
+    padding-top: 32px;
+    padding-bottom: 16px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+  
+    
+}
+.myblog-card {
+    margin-bottom: 64px !important;
+}
+.myblog-card h3{
+    color: #282938;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+  
+    
+}
+.myblog-card p{
+    padding-top: 16px;
+    padding-bottom: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    
+    
+}
+.myblog-card a{
+  margin-bottom: 64px !important;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+   
+    
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+    .myblog-card img{
+        width: 100% !important;
+    }
+    .myblog-card h3 {
+        color: #282938;
+        font-family: Poppins;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 36px;
+    }
+    .myblog-card p {
+        padding-top: 16px;
+        padding-bottom: 24px;
+        font-family: Poppins;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+}
